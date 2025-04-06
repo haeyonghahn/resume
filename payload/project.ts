@@ -36,12 +36,12 @@ const project: IProject.Payload = {
           ],
         },
         {
-          content: '전표 데이터 엑셀 다운로드 시 OOM 개선',
+          content: '전표 데이터 조회 시 OOM 개선',
           weight: 'SEMI_BOLD',
           descriptions: [
             {
               content:
-                '문제: 약 50만 건 계정과목별 전표 데이터 엑셀 다운로드 시 OutOfMemory 오류 발생',
+                '문제: 약 50만 건 계정과목별 전표 데이터 조회 시 OutOfMemory 오류 발생',
             },
             {
               content:
