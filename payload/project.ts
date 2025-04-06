@@ -40,8 +40,7 @@ const project: IProject.Payload = {
           weight: 'SEMI_BOLD',
           descriptions: [
             {
-              content:
-                '문제: 약 50만 건 계정과목별 전표 데이터 조회 시 OutOfMemory 오류 발생',
+              content: '문제: 약 50만 건 계정과목별 전표 데이터 조회 시 OutOfMemory 오류 발생',
             },
             {
               content:
